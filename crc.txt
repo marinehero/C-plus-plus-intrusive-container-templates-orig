@@ -1,0 +1,3 @@
+URI for open source CRC code (for use as hash functions).
+
+http://opensource.apple.com//source/xnu/xnu-1456.1.26/bsd/libkern/crc32.c
